@@ -5,7 +5,7 @@
 
 -Goal is to maximize ones assets within a certain number of turns (simulated fiscal years).
 
-MANY THANKS TO THE EXTERNAL LIBRARY (fuzzy-wuzzy) FROM: https://github.com/xdrop/fuzzywuzzy
+External libraries: fuzzy-wuzzy (https://github.com/xdrop/fuzzywuzzy)
 
 # Credits
 - Alan Zhang
